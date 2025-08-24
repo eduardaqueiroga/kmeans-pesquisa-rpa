@@ -1,6 +1,6 @@
 # kmeans-pesquisa-rpa
 
-Projeto desenvolvido para o Trabalho de Conclusão de Curso (TCC), que analisa dados de uma pesquisa sobre RPA (Automação Robótica de Processos) utilizando técnicas de pré-processamento, redução de dimensionalidade e clustering para identificar grupos semelhantes nos dados e obter insights relevantes.
+Projeto desenvolvido para o Trabalho de Conclusão de Curso (TCC) do MBA em Digital Business, que analisa dados de uma pesquisa sobre RPA (Automação Robótica de Processos) utilizando técnicas de pré-processamento, redução de dimensionalidade e clustering para identificar grupos semelhantes nos dados e obter insights relevantes.
 
 ## 🚀 Tecnologias utilizadas
 
