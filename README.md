@@ -23,6 +23,6 @@ Projeto desenvolvido para o Trabalho de Conclusão de Curso (TCC) do MBA em Digi
 ```bash
 git clone https://github.com/eduardaqueiroga/kmeans-pesquisa-rpa.git
 
-2. Abra o notebook no Google Colab clicando no botão abaixo:
+2. Abra o notebook no Google Colab acessando o link abaixo:
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eduardaqueiroga/kmeans-pesquisa-rpa/blob/main/kmeans-pesquisa-rpa.ipynb)
